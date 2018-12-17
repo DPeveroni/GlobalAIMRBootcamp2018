@@ -1,0 +1,3 @@
+[submodule "WinML-MLNET-HoloLens"]
+	path = WinML-MLNET-HoloLens
+	url = https://github.com/gianni-rg/global-ai-bootcamp-2018-demo
