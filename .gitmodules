@@ -1,3 +1,9 @@
 [submodule "WinML-MLNET-HoloLens"]
 	path = WinML-MLNET-HoloLens
 	url = https://github.com/gianni-rg/global-ai-bootcamp-2018-demo
+[submodule "CognitiveServices/TranslatorService"]
+	path = CognitiveServices/TranslatorService
+	url = https://github.com/marcominerva/TranslatorService.git
+[submodule "CognitiveServices/MultilanguageChat"]
+	path = CognitiveServices/MultilanguageChat
+	url = https://github.com/marcominerva/MultilanguageChat.git
